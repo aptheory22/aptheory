@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aungpao</h1>
 <h3 align="center">A passionate pharmacy student skills in Python and Data Analytics</h3>
 
-- 🔭 I’m currently working on **AppHerb**
+- 🔭 I’m currently working on **AppHerb Language Model**
 
-- 📝 I write some articles on [medium.com/@thanawat.pi](medium.com/@thanawat.pi)
+- 📝 I write some articles on [medium.com](medium.com/@thanawat.pi)
 
 - 💬 Ask me about **Python and application in bioinformatics**
 
-- 📫 How to reach me **thanawat.piya@kkumail.com**
+- 📫 Contact me **thanawat.piya@kkumail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
