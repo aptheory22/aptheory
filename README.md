@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aungpao</h1>
-<h3 align="center">A passionate pharmacy student skills in Python and Data Analytics</h3>
+<h3 align="center">A passionate pharmacy student skills in Python and Data Analytics from Thailand</h3>
 
 - 🔭 I’m currently working on **AppHerb Language Model**
 
